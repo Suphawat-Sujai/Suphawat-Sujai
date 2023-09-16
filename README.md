@@ -12,10 +12,6 @@ Nice to see you.:heartpulse::heartpulse:
   Committed computer science students who are constantly improving their knowledge. I have interest in programming internship. Develop a link between theory and practice to gain experience for future work. I hope going to Cooperative Education will enhance my software development abilities and understanding.
   
  I want to be a self-taught front-end developer!!. :neutral_face:
-
- I try practice writing popular and demanding computer languages. :computer:
-
- I try to learn by myself and do my best. :laughing:
  
  ## :bar_chart: GitHub Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Suphawat-Sujai)](https://git.io/streak-stats)
