@@ -12,7 +12,14 @@ Nice to see you.:heartpulse::heartpulse:
   Committed computer science students who are constantly improving their knowledge. I have interest in programming internship. Develop a link between theory and practice to gain experience for future work. I hope going to Cooperative Education will enhance my software development abilities and understanding.
   
  I want to be a self-taught front-end developer!!. :neutral_face:
- 
+
+ ## :bar_chart: GitHub Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Suphawat-Sujai)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suphawat-Sujai&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/Suphawat-Sujai)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/Suphawat-Sujai)-->
 
 ## :gem: Programming languages :
 ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
