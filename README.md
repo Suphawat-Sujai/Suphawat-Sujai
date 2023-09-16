@@ -28,6 +28,9 @@ Nice to see you.:heartpulse::heartpulse:
 ![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  ![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)  ![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ## :mailbox:Connect with me:
+- Phone: 080-952-2887
+- Email: suphawat.2544.04@gmail.com , suphawat_sujai@cmu.ac.th
+- Facebook: Suphawat Sujai
 
 
 <!--
