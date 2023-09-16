@@ -1,4 +1,4 @@
-# Hey there. Welcome to my profile Github and nice to see you. 👋:blue_heart:
+# Hey there. Welcome to my profile Github and nice to see you.👋:blue_heart:
 Nice to see you.:heartpulse::heartpulse:
 ## :raising_hand: ABOUT ME
   I'm Suphawat Sujai (Ae) 
@@ -13,13 +13,6 @@ Nice to see you.:heartpulse::heartpulse:
   
  I want to be a self-taught front-end developer!!. :neutral_face:
  
- ## :bar_chart: GitHub Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Suphawat-Sujai)](https://git.io/streak-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suphawat-Sujai&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/Suphawat-Sujai)
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/Suphawat-Sujai)-->
 
 ## :gem: Programming languages :
 ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -31,7 +24,6 @@ Nice to see you.:heartpulse::heartpulse:
 - Phone: 080-952-2887
 - Email: suphawat.2544.04@gmail.com , suphawat_sujai@cmu.ac.th
 - Facebook: Suphawat Sujai
-
 
 <!--
 **Suphawat-Sujai/Suphawat-Sujai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
