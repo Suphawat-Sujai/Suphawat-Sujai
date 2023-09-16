@@ -2,8 +2,11 @@
 Nice to see you.:heartpulse::heartpulse:
 ## :raising_hand: ABOUT ME
   I'm Suphawat Sujai (Ae) 
+  
   studying Chiang Mai University 🟣⚪
+  
   Faculty of Science 🟡
+  
   Major Computer Science💻.
   
   Committed computer science students who are constantly improving their knowledge. I have interest in programming internship. Develop a link between theory and practice to gain experience for future work. I hope going to Cooperative Education will enhance my software development abilities and understanding.
