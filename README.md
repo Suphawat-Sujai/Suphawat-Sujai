@@ -31,7 +31,7 @@ I want to Full Stack Developer!!!!!. :neutral_face:
 
 ## :mailbox:Connect with me:
 - Phone: 080-952-2887
-- Email: suphawat.2544.04@gmail.com , suphawat_sujai@cmu.ac.th
+- Email: suphawat.sujaii@gmail.com, suphawat_sujai@cmu.ac.th
 - Facebook: Suphawat Sujai
 
 <!--
