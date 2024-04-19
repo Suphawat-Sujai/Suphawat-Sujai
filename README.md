@@ -1,4 +1,4 @@
-# Hey there. Welcome to my profile Github.👋:blue_heart:
+# Hey there. Welcome to my profile Github.👋
 Nice to see you.:heartpulse::heartpulse:
 ## :raising_hand: ABOUT ME
   I'm Suphawat Sujai (Ae) 
