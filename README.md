@@ -3,7 +3,7 @@ Nice to see you.:heartpulse::heartpulse:
 ## :raising_hand: ABOUT ME
   I'm Suphawat Sujai (Ae) 
   
-  studying Chiang Mai University 🟣⚪
+  Chiang Mai University 🟣⚪
   
   Faculty of Science 🟡
   
