@@ -3,7 +3,7 @@
   
   Chiang Mai University 🟣⚪    Faculty of Science 🟡    Major Computer Science💻.
 
- ## :bar_chart: GitHub Stats :
+<!-- ## :bar_chart: GitHub Stats : -->
 <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Suphawat-Sujai)](https://git.io/streak-stats)-->
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suphawat-Sujai&show_icons=true&theme=tokyonight)-->
