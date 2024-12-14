@@ -6,9 +6,9 @@
  ## :bar_chart: GitHub Stats :
 <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Suphawat-Sujai)](https://git.io/streak-stats)-->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suphawat-Sujai&show_icons=true&theme=tokyonight)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suphawat-Sujai&show_icons=true&theme=tokyonight)-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/Suphawat-Sujai)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/Suphawat-Sujai) -->
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/Suphawat-Sujai)-->
 
 ## :gem: Programming languages :
